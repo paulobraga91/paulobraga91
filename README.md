@@ -7,7 +7,7 @@ I'm a developer. And, actualy i'm study web developer at rockseat.
 #### Stacks
 
 - ⚡️Main language: `Javascript`
-- 🚧Backend: ``NodeJs`
+- 🚧Backend: `NodeJs`
 - 🎨Frontend: `ReactJS`, `HTML5`, `CSS3`, `Javascript`
 - 🖼️Layout: `Figma`
 - 📝 Version code control: `Git e Github`
