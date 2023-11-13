@@ -13,7 +13,7 @@ I'm a developer. And, actualy i'm study web developer at rockseat.
 - 📝 Version code control: `Git e Github`
 - 🛠️Tools: `VsCode`, `Markdown`
 
-- #### Contats
+#### Contats
 - 📧Email: `paulobraga.91@gmail.com`
 - 🧑🏻LinkedIn: https://www.linkedin.com/in/paulo-braga-8853621b/
 - 📱Phone: `+5588998036632`
